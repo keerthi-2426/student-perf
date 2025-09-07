@@ -2,3 +2,4 @@ id,name,test_score,attendance,prediction,accuracy,performance
 1,keerthiga ,50.0,40.0,45.0,45.0,Average Performance
 2,keerthi,70.0,70.0,70.0,70.0,Good Performance
 3,keerthiga ,80.0,70.0,75.0,75.0,Good Performance
+4,keerthi,60.0,60.0,60.0,60.0,Good Performance
